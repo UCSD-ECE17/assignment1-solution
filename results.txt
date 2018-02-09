@@ -1,0 +1,3 @@
+Distance AB: 0.741829
+Distance AC: 0.872417
+Document A is most similar to document B
